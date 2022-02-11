@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Karen apps
 
 You can use the [editor on GitHub](https://github.com/karengameapps/karengameapps.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
